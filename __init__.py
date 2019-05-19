@@ -1,1 +1,1 @@
-from badzman1004.myname import fullname
+from Badzman1004.myname import fullname
